@@ -13,4 +13,6 @@ void readProduct();
 void updateProduct();
 void deleteProduct();
 
+void listProducts();
+
 #endif
