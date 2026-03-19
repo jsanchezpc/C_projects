@@ -1,18 +1,13 @@
-# Archivos objeto
 *.o
 
-# Ejecutables
 *.exe
 *.out
 
-# Archivos temporales
 *.log
 *.tmp
 
-# Carpetas de build (si usas)
 build/
 dist/
 
-# Archivos del sistema
 .DS_Store
 Thumbs.db
